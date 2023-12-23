@@ -3,9 +3,6 @@ Software and useful python tools for analyzing the STOE Image-plate Diffraction 
 
 <h1 align="center">
 <img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
-  
-
-
 </h1><br>
 
 <h2 align="center">
@@ -22,11 +19,9 @@ STOE IPDS software and tools is a Python package containing mostly jupyter noteb
 7. Integration of the image employing user's defined sections
 8. Fitting of the 1D data using various types of peaks
    
-![image](https://github.com/dsapalidis/mypackage_sapd/assets/150019714/b1f06be1-3115-4e28-9c92-159bb217b271)
-
 
 - **Website:** https://www.empa.ch/web/s499
-- **Bug reports:**
+- 
 
 - 
 

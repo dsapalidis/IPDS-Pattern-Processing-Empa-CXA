@@ -3,7 +3,8 @@ Software and useful python tools for analyzing the STOE Image-plate Diffraction 
 
 <h1 align="center">
 <img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
-   <img src="https://github.com/dsapalidis/STOE-IPDS-Empa-CXA/Images/IPDS-STOE-Empa-Photo_I.jpg" width="400">
+   <img src="<img src="images/Photo_I.jpg" width="400">
+>
 
 </h1><br>
 

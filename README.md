@@ -21,4 +21,5 @@ STOE IPDS software and tools is a Python package containing mostly jupyter noteb
    
 
 - **Website:** https://www.empa.ch/web/s499
+- **Bugs** dsapalidis@gmail.com
 

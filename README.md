@@ -1,4 +1,6 @@
 # STOE-IPDS-Empa-CXA
+Software and useful python tools for analyzing the STOE Image-plate Diffraction System (IPDS) diffraction patterns
+
 <h1 align="center">
 <img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
 </h1><br>
@@ -18,4 +20,4 @@ STOE IPDS software and tools is a Python package containing mostly jupyter noteb
 
 - **Website:** https://www.empa.ch/web/s499
 - **Bug reports:** 
-Software and useful python tools for analyzing the STOE Image-plate Diffraction System (IPDS) diffraction patterns
+

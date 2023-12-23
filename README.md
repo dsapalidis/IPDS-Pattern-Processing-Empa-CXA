@@ -5,9 +5,6 @@ Software and useful python tools for analyzing the STOE Image-plate Diffraction 
 <img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
 </h1><br>
 
-<h2 align="center">
-<img src="https://github.com/dsapalidis/STOE-IPDS-Empa-CXA/tree/main/Images/Photo_I.jpg" width="400">
-</h2><br>
    
 STOE IPDS software and tools is a Python package containing mostly jupyter notebooks that enables:
 1. Reading the exported .tiff images from X-Area and load them

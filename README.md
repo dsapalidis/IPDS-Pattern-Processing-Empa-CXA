@@ -1,4 +1,4 @@
-# Imaging-Plate-Diffraction-System-Empa-CXA
+# IPDS-Pattern-Processing-Empa-CXA
 Software and useful python tools for analyzing the STOE Image-plate Diffraction System (IPDS) diffraction patterns
 
 <h1 align="center">
